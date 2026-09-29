@@ -1,0 +1,8 @@
+<resources>
+    <color name="page">#F5F6F2</color>
+    <color name="ink">#17211D</color>
+    <color name="muted">#66736D</color>
+    <color name="brand">#166B4D</color>
+    <color name="brand_dark">#0D513A</color>
+    <color name="surface">#FFFFFF</color>
+</resources>
